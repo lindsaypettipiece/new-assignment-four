@@ -1,0 +1,21 @@
+/* Write your CSS here! */
+body{
+    margin: 8px;
+    display: block;
+    background-color: black;
+    color: rgb(34, 34, 14);
+    text-align: center;
+}
+.emilyStats{
+    background-color: aliceblue;
+}
+#mainHeading{
+    color: red;
+    font-size: x-large;
+}
+.funParagraph{
+    color: green;
+}
+p{
+    text-align: center;
+}
